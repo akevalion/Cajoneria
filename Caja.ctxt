@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Caja
+comment1.params=
+comment1.target=Caja()
+comment2.params=dato\ color
+comment2.target=Caja(java.lang.Object,\ java.lang.String)
+comment3.params=
+comment3.target=java.lang.Object\ getDato()
+comment4.params=
+comment4.target=java.lang.String\ getColor()
+comment5.params=nuevoDato
+comment5.target=void\ setDato(java.lang.Object)
+comment6.params=nuevoColor
+comment6.target=void\ setColor(java.lang.String)
+numComments=7

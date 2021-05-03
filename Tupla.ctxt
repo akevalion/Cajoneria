@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Tupla
+comment1.params=key\ value
+comment1.target=Tupla(java.lang.Object,\ java.lang.Object)
+comment2.params=
+comment2.target=java.lang.Object\ getKey()
+comment3.params=
+comment3.target=java.lang.Object\ getValue()
+comment4.params=newKey
+comment4.target=void\ setKey(java.lang.Object)
+comment5.params=newValue
+comment5.target=void\ setValue(java.lang.Object)
+numComments=6

@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Cajoneria
+comment1.params=
+comment1.target=Cajoneria()
+comment2.params=nuevaCaja
+comment2.target=void\ add(Caja)
+comment3.params=datoBuscado
+comment3.target=Tupla\ search(java.lang.Object)
+comment4.params=datoBuscado
+comment4.target=int\ indexOf(java.lang.Object)
+comment5.params=datoAEliminar
+comment5.target=Caja\ remove(java.lang.Object)
+comment6.params=
+comment6.target=java.lang.String\ toString()
+numComments=7
